@@ -2,6 +2,7 @@
 layout: post
 title: 从币安安全事件看 EIP-7702 的授权风险
 date: 2026-11-02 00:00:00 +0800
+permalink: /2026/11/02/eip-7702-authorization-risks/
 tags:
   - security
   - ethereum
